@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Examples
+comment0.text=\n\ Change\ the\ code\ in\ ExampleOne,\ ExampleTwo,\ and\ \n\ ExmapleThree\ below\ as\ per\ the\ instructions.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ ExampleOne()
+comment2.text=\n\ \ \ \ Change\ the\ values\ of\ first\ and\ second\ below\ to\ \n\ \ \ \ different\ integers\ to\ test\ the\ program.\ \n\ \ \ \ Do\ negative\ integers\ work?\ \n\ \ \ \ What\ happens\ with\ decimal\ numbers?\n
+comment3.params=
+comment3.target=void\ ExampleTwo()
+comment4.params=
+comment4.target=void\ ExampleThree()
+numComments=5
